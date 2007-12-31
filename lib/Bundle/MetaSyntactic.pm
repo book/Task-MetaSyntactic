@@ -1,6 +1,6 @@
 package Bundle::MetaSyntactic;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 'whack_eth';
 
@@ -37,6 +37,8 @@ C<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
 Acme::MetaSyntactic 0.99 - Themed metasyntactic variables names
 
 Acme::MetaSyntactic::buzzwords - Pointy-haired boss lingo (JQUELIN)
+
+Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
 Acme::MetaSyntactic::nethack - The largest time waster in the world of *nix (ELLIOTJS)
 
