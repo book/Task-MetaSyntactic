@@ -1,5 +1,8 @@
 Revision history for Bundle-MetaSyntactic
 
+1.01 Mon Dec 31 13:59:58 CET 2007
+        - add the daleks theme
+
 1.00 Fri Aug 17 12:12:21 CEST 2007
         - First version of the bundle
         - includes the buzzwords, nethack and vim additional themes
