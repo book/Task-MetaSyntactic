@@ -1,5 +1,9 @@
 Revision history for Bundle-MetaSyntactic
 
+1.020 Tue May 8, 2012
+        - add Acme::MetaSyntactic::Themes
+        - document the distribution split
+
 1.01 Mon Dec 31 13:59:58 CET 2007
         - add the daleks theme
 
