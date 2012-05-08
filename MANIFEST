@@ -6,3 +6,4 @@ MANIFEST			This list of files
 META.yml
 t/pod-coverage.t
 t/pod.t
+META.json
