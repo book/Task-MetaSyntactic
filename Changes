@@ -1,6 +1,9 @@
 Revision history for Bundle-MetaSyntactic
 
-1.020 Tue May 8, 2012
+1.021 Tue May 21, 2012
+        - add Acme::MetaSyntactic::Themes::Abigail
+
+1.020 Tue May  8, 2012
         - add Acme::MetaSyntactic::Themes
         - document the distribution split
 
