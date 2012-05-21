@@ -1,6 +1,6 @@
 package Bundle::MetaSyntactic;
 
-our $VERSION = '1.020';
+our $VERSION = '1.021';
 
 'whack_eth';
 
@@ -46,6 +46,8 @@ L<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
 Acme::MetaSyntactic 1.000 - Themed metasyntactic variables names
 
 Acme::MetaSyntactic::Themes 1.000 - The original Acme::MetaSyntactic themes
+
+Acme::MetaSyntactic::Themes::Abigail - More themes by Abigail (ABIGAIL)
 
 Acme::MetaSyntactic::buzzwords - Pointy-haired boss lingo (JQUELIN)
 
