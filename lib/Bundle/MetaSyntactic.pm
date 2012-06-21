@@ -1,6 +1,6 @@
 package Bundle::MetaSyntactic;
 
-our $VERSION = '1.021';
+our $VERSION = '1.022';
 
 'whack_eth';
 
@@ -52,6 +52,8 @@ Acme::MetaSyntactic::Themes::Abigail - More themes by Abigail (ABIGAIL)
 Acme::MetaSyntactic::buzzwords - Pointy-haired boss lingo (JQUELIN)
 
 Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
+
+Acme::MetaSyntactic::errno - The Errno theme (BOOK)
 
 Acme::MetaSyntactic::nethack - The largest time waster in the world of *nix (ELLIOTJS)
 
