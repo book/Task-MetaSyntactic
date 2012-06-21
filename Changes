@@ -1,5 +1,8 @@
 Revision history for Bundle-MetaSyntactic
 
+1.022 Thu June 21, 2012
+        - add Acme::MetaSyntactic::errno
+
 1.021 Tue May 21, 2012
         - add Acme::MetaSyntactic::Themes::Abigail
 
