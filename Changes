@@ -1,6 +1,9 @@
 Revision history for Bundle-MetaSyntactic
 
-1.022 Thu June 21, 2012
+1.023 Thu Aug  6, 2012
+        - add Acme::MetaSyntactic::soviet
+
+1.022 Thu Jun 21, 2012
         - add Acme::MetaSyntactic::errno
 
 1.021 Tue May 21, 2012
