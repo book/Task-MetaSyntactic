@@ -1,5 +1,8 @@
 Revision history for Bundle-MetaSyntactic
 
+1.024 Thu Aug  6, 2012
+        - fix a typo in Acme::MetaSyntactic::soviet's name
+
 1.023 Thu Aug  6, 2012
         - add Acme::MetaSyntactic::soviet
 
