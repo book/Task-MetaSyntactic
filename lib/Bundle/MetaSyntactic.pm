@@ -55,6 +55,8 @@ Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
 Acme::MetaSyntactic::errno - The Errno theme (BOOK)
 
+Acme::MetaSyntactic::sovier - NATO codenames for Soviet-designed equipment (JFORGET)
+
 Acme::MetaSyntactic::nethack - The largest time waster in the world of *nix (ELLIOTJS)
 
 Acme::MetaSyntactic::vim - The vim theme (ELLIOTJS)
