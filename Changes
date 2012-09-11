@@ -1,18 +1,18 @@
 Revision history for Bundle-MetaSyntactic
 
-1.024 Thu Aug  6, 2012
+1.024 Thu Aug  6 2012
         - fix a typo in Acme::MetaSyntactic::soviet's name
 
-1.023 Thu Aug  6, 2012
+1.023 Thu Aug  6 2012
         - add Acme::MetaSyntactic::soviet
 
-1.022 Thu Jun 21, 2012
+1.022 Thu Jun 21 2012
         - add Acme::MetaSyntactic::errno
 
-1.021 Tue May 21, 2012
+1.021 Tue May 21 2012
         - add Acme::MetaSyntactic::Themes::Abigail
 
-1.020 Tue May  8, 2012
+1.020 Tue May  8 2012
         - add Acme::MetaSyntactic::Themes
         - document the distribution split
 
