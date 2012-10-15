@@ -1,5 +1,10 @@
 Revision history for Bundle-MetaSyntactic
 
+1.025 Tue Oct 16 2012
+        - add Acme::MetaSyntactic::morning_musume
+        - fixed the date format in the Changes files
+          (in accordance with CPAN::Changes)
+
 1.024 Thu Aug  6 2012
         - fix a typo in Acme::MetaSyntactic::soviet's name
 
