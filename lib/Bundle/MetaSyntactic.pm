@@ -55,6 +55,16 @@ Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
 Acme::MetaSyntactic::errno - The Errno theme (BOOK)
 
+Acme::MetaSyntactic::legobatman - LEGO Batman theme (BINGOS)
+
+Acme::MetaSyntactic::legoharrypotter - LEGO Harry Potter theme (BINGOS)
+
+Acme::MetaSyntactic::legoindianajones - LEGO Indiana Jones theme (BINGOS)
+
+Acme::MetaSyntactic::legolotr - LEGO Lord of the Rings theme (BINGOS)
+
+Acme::MetaSyntactic::legopiratesofthecaribbean - LEGO Pirates of the Caribbean theme (BINGOS)
+
 Acme::MetaSyntactic::morning_musume - The Mumusu theme (ELBEHO)
 
 Acme::MetaSyntactic::nethack - The largest time waster in the world of *nix (ELLIOTJS)
