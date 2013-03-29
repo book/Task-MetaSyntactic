@@ -43,9 +43,9 @@ L<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
 
 =head1 CONTENTS
 
-Acme::MetaSyntactic 1.000 - Themed metasyntactic variables names
+Acme::MetaSyntactic - Themed metasyntactic variables names
 
-Acme::MetaSyntactic::Themes 1.000 - The original Acme::MetaSyntactic themes
+Acme::MetaSyntactic::Themes - The original Acme::MetaSyntactic themes
 
 Acme::MetaSyntactic::Themes::Abigail - More themes by Abigail (ABIGAIL)
 
