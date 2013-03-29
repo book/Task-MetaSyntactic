@@ -53,6 +53,8 @@ Acme::MetaSyntactic::buzzwords - Pointy-haired boss lingo (JQUELIN)
 
 Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
+Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach! (MCARTMELL)
+
 Acme::MetaSyntactic::errno - The Errno theme (BOOK)
 
 Acme::MetaSyntactic::legobatman - LEGO Batman theme (BINGOS)
