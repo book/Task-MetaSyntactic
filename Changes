@@ -1,5 +1,13 @@
 Revision history for Bundle-MetaSyntactic
 
+1.026 Mon Apr  1 2013
+        - add Acme::MetaSyntactic::dune
+        - add Acme::MetaSyntactic::legobatman
+        - add Acme::MetaSyntactic::legoharrypotter
+        - add Acme::MetaSyntactic::legoindianajones
+        - add Acme::MetaSyntactic::legolotr
+        - add Acme::MetaSyntactic::legopiratesofthecaribbean
+
 1.025 Tue Oct 16 2012
         - add Acme::MetaSyntactic::morning_musume
         - fixed the date format in the Changes files
