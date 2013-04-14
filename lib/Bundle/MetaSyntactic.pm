@@ -1,5 +1,7 @@
 package Bundle::MetaSyntactic;
 
+use strict;
+
 our $VERSION = '1.026';
 
 'whack_eth';
