@@ -14,7 +14,11 @@ Task::MetaSyntactic - All Acme::MetaSyntactic themes
 
 =head1 SYNOPSIS
 
-    perl -MCPAN -e 'install Task::MetaSyntactic'
+    cpan Task::MetaSyntactic
+
+    cpanp -i Task::MetaSyntactic
+
+    cpanm Task::MetaSyntactic
 
 =head1 DESCRIPTION
 
