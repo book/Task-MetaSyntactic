@@ -10,7 +10,7 @@ __END__
 
 =head1 NAME
 
-Task::MetaSyntactic - All Acme::MetaSyntactic themes
+Task::MetaSyntactic - All Acme::MetaSyntactic themes at once
 
 =head1 SYNOPSIS
 
@@ -44,7 +44,7 @@ The L<Test::MetaSyntactic> module included in the main distribution
 aims at simplifying the test and distribution of new themes by
 individual authors.
 
-This L<Task> brings you all the official and not-so-official
+This L<Task> installs all the official and not-so-official
 L<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
 
 =head1 CONTENTS
@@ -95,4 +95,3 @@ This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
 
 =cut
-
