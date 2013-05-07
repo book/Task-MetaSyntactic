@@ -77,6 +77,8 @@ Acme::MetaSyntactic::soviet - NATO codenames for Soviet-designed equipment (JFOR
 
 Acme::MetaSyntactic::vim - The vim theme (ELLIOTJS)
 
+Acme::MetaSyntactic::xkcdcommon1949 - xkcd common wordlist for Acme::MetaSyntactic (MARKF)
+
 =head1 AUTHOR
 
 Philippe Bruhat (BooK), <book@cpan.org>
