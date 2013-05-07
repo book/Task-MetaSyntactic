@@ -1,4 +1,4 @@
-Bundle-MetaSyntactic
+Task-MetaSyntactic
 
 DESCRIPTION
 
@@ -15,7 +15,7 @@ and a single theme, while all "historical" themes now live in the
 The Test::MetaSyntactic module included in the main distribution aims at
 simplifying the test and distribution of new themes by individual authors.
 
-This bundle brings you all the official and not-so-official
+This Task installs all the official and not-so-official
 Acme::MetaSyntactic themes.
 
 AUTHOR
