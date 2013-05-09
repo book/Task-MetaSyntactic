@@ -8,9 +8,7 @@ our $VERSION = '1.026';
 
 __END__
 
-=head1 NAME
-
-Task::MetaSyntactic - All Acme::MetaSyntactic themes at once
+# ABSTRACT: All Acme::MetaSyntactic themes at once
 
 =head1 SYNOPSIS
 
@@ -82,10 +80,6 @@ Acme::MetaSyntactic::soviet - NATO codenames for Soviet-designed equipment (JFOR
 Acme::MetaSyntactic::vim - The vim theme (ELLIOTJS)
 
 Acme::MetaSyntactic::xkcdcommon1949 - xkcd common wordlist for Acme::MetaSyntactic (MARKF)
-
-=head1 AUTHOR
-
-Philippe Bruhat (BooK), <book@cpan.org>
 
 =head1 COPYRIGHT
 
