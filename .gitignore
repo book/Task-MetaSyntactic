@@ -6,7 +6,7 @@ _build*
 pm_to_blib*
 *.tar.gz
 .lwpcookies
-Bot-BasicBot-Pluggable-Module-Assemble-*
+Task-MetaSyntactic-*
 cover_db
 *.bak
 *.swp
