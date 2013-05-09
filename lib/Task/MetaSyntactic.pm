@@ -1,4 +1,4 @@
-package Bundle::MetaSyntactic;
+package Task::MetaSyntactic;
 
 use strict;
 
@@ -10,11 +10,15 @@ __END__
 
 =head1 NAME
 
-Bundle::MetaSyntactic - All Acme::MetaSyntactic themes
+Task::MetaSyntactic - All Acme::MetaSyntactic themes at once
 
 =head1 SYNOPSIS
 
-    perl -MCPAN -e 'install Bundle::MetaSyntactic'
+    cpan Task::MetaSyntactic
+
+    cpanp -i Task::MetaSyntactic
+
+    cpanm Task::MetaSyntactic
 
 =head1 DESCRIPTION
 
@@ -40,7 +44,7 @@ The L<Test::MetaSyntactic> module included in the main distribution
 aims at simplifying the test and distribution of new themes by
 individual authors.
 
-This bundle brings you all the official and not-so-official
+This L<Task> installs all the official and not-so-official
 L<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
 
 =head1 CONTENTS
@@ -93,4 +97,3 @@ This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
 
 =cut
-
