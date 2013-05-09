@@ -2,8 +2,6 @@ package Task::MetaSyntactic;
 
 use strict;
 
-our $VERSION = '1.026';
-
 'whack_eth';
 
 __END__
