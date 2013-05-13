@@ -1,5 +1,13 @@
 Revision history for Bundle-MetaSyntactic
 
+{{$NEXT}}
+
+1.027 Mon May 13 2013
+        - add Acme::MetaSyntactic::xkcdcommon1949
+        - rename to Task::MetaSyntactic (and turned into a Task)
+        - switch do Dist::Zilla
+        - add a README file and "use strict", to improve my CPANTS score
+
 1.026 Mon Apr  1 2013
         - add Acme::MetaSyntactic::dune
         - add Acme::MetaSyntactic::legobatman
