@@ -1,6 +1,7 @@
 package Task::MetaSyntactic;
 
 use strict;
+use warnings;
 
 'whack_eth';
 
