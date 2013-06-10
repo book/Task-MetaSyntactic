@@ -46,39 +46,39 @@ L<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
 
 =head1 CONTENTS
 
-Acme::MetaSyntactic - Themed metasyntactic variables names (BOOK)
+L<Acme::MetaSyntactic> - Themed metasyntactic variables names (BOOK)
 
-Acme::MetaSyntactic::Themes - The original Acme::MetaSyntactic themes (BOOK)
+L<Acme::MetaSyntactic::Themes> - The original Acme::MetaSyntactic themes (BOOK)
 
-Acme::MetaSyntactic::Themes::Abigail - More themes by Abigail (ABIGAIL)
+L<Acme::MetaSyntactic::Themes::Abigail> - More themes by Abigail (ABIGAIL)
 
-Acme::MetaSyntactic::buzzwords - Pointy-haired boss lingo (JQUELIN)
+L<Acme::MetaSyntactic::buzzwords> - Pointy-haired boss lingo (JQUELIN)
 
-Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
+L<Acme::MetaSyntactic::daleks> - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
-Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach! (MCARTMELL)
+L<Acme::MetaSyntactic::dune> - For he is the Kwisatz Haderach! (MCARTMELL)
 
-Acme::MetaSyntactic::errno - The Errno theme (BOOK)
+L<Acme::MetaSyntactic::errno> - The Errno theme (BOOK)
 
-Acme::MetaSyntactic::legobatman - LEGO Batman theme (BINGOS)
+L<Acme::MetaSyntactic::legobatman> - LEGO Batman theme (BINGOS)
 
-Acme::MetaSyntactic::legoharrypotter - LEGO Harry Potter theme (BINGOS)
+L<Acme::MetaSyntactic::legoharrypotter> - LEGO Harry Potter theme (BINGOS)
 
-Acme::MetaSyntactic::legoindianajones - LEGO Indiana Jones theme (BINGOS)
+L<Acme::MetaSyntactic::legoindianajones> - LEGO Indiana Jones theme (BINGOS)
 
-Acme::MetaSyntactic::legolotr - LEGO Lord of the Rings theme (BINGOS)
+L<Acme::MetaSyntactic::legolotr> - LEGO Lord of the Rings theme (BINGOS)
 
-Acme::MetaSyntactic::legopiratesofthecaribbean - LEGO Pirates of the Caribbean theme (BINGOS)
+L<Acme::MetaSyntactic::legopiratesofthecaribbean> - LEGO Pirates of the Caribbean theme (BINGOS)
 
-Acme::MetaSyntactic::morning_musume - The Mumusu theme (ELBEHO)
+L<Acme::MetaSyntactic::morning_musume> - The Mumusu theme (ELBEHO)
 
-Acme::MetaSyntactic::nethack - The largest time waster in the world of *nix (ELLIOTJS)
+L<Acme::MetaSyntactic::nethack> - The largest time waster in the world of *nix (ELLIOTJS)
 
-Acme::MetaSyntactic::soviet - NATO codenames for Soviet-designed equipment (JFORGET)
+L<Acme::MetaSyntactic::soviet> - NATO codenames for Soviet-designed equipment (JFORGET)
 
-Acme::MetaSyntactic::vim - The vim theme (ELLIOTJS)
+L<Acme::MetaSyntactic::vim> - The vim theme (ELLIOTJS)
 
-Acme::MetaSyntactic::xkcdcommon1949 - xkcd common wordlist for Acme::MetaSyntactic (MARKF)
+L<Acme::MetaSyntactic::xkcdcommon1949> - xkcd common wordlist for Acme::MetaSyntactic (MARKF)
 
 =head1 OTHER METASYNTACTIC MODULES
 
