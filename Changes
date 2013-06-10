@@ -2,6 +2,10 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.028 Tue Jun 11 2013
+        - list distributions that require Amce::MetaSyntactic,
+          but that do not contain any themes
+
 1.027 Mon May 13 2013
         - add Acme::MetaSyntactic::xkcdcommon1949
         - rename to Task::MetaSyntactic (and turned into a Task)
