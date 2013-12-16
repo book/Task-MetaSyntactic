@@ -3,7 +3,7 @@ Revision history for Task-MetaSyntactic
 {{$NEXT}}
 
 1.028 Tue Jun 11 2013
-        - list distributions that require Amce::MetaSyntactic,
+        - list distributions that require Acme::MetaSyntactic,
           but that do not contain any themes
 
 1.027 Mon May 13 2013
