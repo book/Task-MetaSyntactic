@@ -62,6 +62,8 @@ L<Acme::MetaSyntactic::errno> - The Errno theme (BOOK)
 
 L<Acme::MetaSyntactic::legobatman> - LEGO Batman theme (BINGOS)
 
+L<Acme::MetaSyntactic::legocityundercover> - LEGO City Undercover theme (BINGOS)
+
 L<Acme::MetaSyntactic::legoharrypotter> - LEGO Harry Potter theme (BINGOS)
 
 L<Acme::MetaSyntactic::legoindianajones> - LEGO Indiana Jones theme (BINGOS)
