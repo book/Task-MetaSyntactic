@@ -70,6 +70,8 @@ L<Acme::MetaSyntactic::legoindianajones> - LEGO Indiana Jones theme (BINGOS)
 
 L<Acme::MetaSyntactic::legolotr> - LEGO Lord of the Rings theme (BINGOS)
 
+L<Acme::MetaSyntactic::legomarvelsuperheroes> - LEGO Marvel Super Heroes theme (BINGOS)
+
 L<Acme::MetaSyntactic::legopiratesofthecaribbean> - LEGO Pirates of the Caribbean theme (BINGOS)
 
 L<Acme::MetaSyntactic::morning_musume> - The Mumusu theme (ELBEHO)
