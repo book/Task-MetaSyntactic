@@ -147,7 +147,7 @@ a data provider for each installed L<Acme::MetaSyntactic> theme.
 
 =head1 COPYRIGHT
 
-Copyright 2005-2013 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2005-2014 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
