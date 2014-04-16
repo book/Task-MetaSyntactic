@@ -136,6 +136,13 @@ L<Acme::MetaSyntactic> themes.
 This is the application that L<Acme::MetaSyntactic> was created for.
 It only took eight years.
 
+=item L<Data::Faker::MetaSyntactic> (BOOK)
+
+First released on 2014-04-16
+
+L<Data::Faker> is all about metasyntactic data, so this module registers
+a data provider for each installed L<Acme::MetaSyntactic> theme.
+
 =back
 
 =head1 COPYRIGHT
