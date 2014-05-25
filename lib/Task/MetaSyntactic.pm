@@ -113,6 +113,8 @@ First released on 2006-09-02.
 This module was written in a hotel room in Birmingham, after the YAPC
 Europe 2006 auction. See also L<http://book.ismybit.ch/>.
 
+Now ironically maintained by BooK.
+
 =item L<Bot::BasicBot::Pluggable::Module::MetaSyntactic> (BOOK)
 
 First released on 2013-04-13.
