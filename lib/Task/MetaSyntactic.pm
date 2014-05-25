@@ -140,7 +140,7 @@ It only took eight years.
 
 =item L<Data::Faker::MetaSyntactic> (BOOK)
 
-First released on 2014-04-16
+First released on 2014-04-16.
 
 L<Data::Faker> is all about metasyntactic data, so this module registers
 a data provider for each installed L<Acme::MetaSyntactic> theme.
