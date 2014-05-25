@@ -7,7 +7,9 @@ use warnings;
 
 __END__
 
-# ABSTRACT: All Acme::MetaSyntactic themes at once
+=head1 NAME
+
+Task::MetaSyntactic - All Acme::MetaSyntactic themes at once
 
 =head1 SYNOPSIS
 
@@ -154,6 +156,10 @@ by various criteria. It seems there are enough authors who have produced
 L<Acme::MetaSyntactic> themes to group them in their own category.
 
 =back
+
+=head1 AUTHOR
+
+Philippe Bruhat (BooK), <book@cpan.org>.
 
 =head1 COPYRIGHT
 
