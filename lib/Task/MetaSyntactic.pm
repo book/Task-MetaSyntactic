@@ -145,6 +145,14 @@ First released on 2014-04-16
 L<Data::Faker> is all about metasyntactic data, so this module registers
 a data provider for each installed L<Acme::MetaSyntactic> theme.
 
+=item L<Acme::CPANAuthors::MetaSyntactic> (BOOK)
+
+First released on 2014-05-24.
+
+The L<Acme::CPANAuthors> series of modules aims at grouping CPAN authors
+by various criteria. It seems there are enough authors who have produced
+L<Acme::MetaSyntactic> themes to group them in their own category.
+
 =back
 
 =head1 COPYRIGHT
