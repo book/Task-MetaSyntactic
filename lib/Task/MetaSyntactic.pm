@@ -56,6 +56,8 @@ L<Acme::MetaSyntactic::Themes::Abigail> - More themes by Abigail (ABIGAIL)
 
 L<Acme::MetaSyntactic::buzzwords> - Pointy-haired boss lingo (JQUELIN)
 
+L<Acme::MetaSyntactic::cpanauthors> - We are CPAN authors, and metasyntactic! (BOOK)
+
 L<Acme::MetaSyntactic::daleks> - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
 L<Acme::MetaSyntactic::dune> - For he is the Kwisatz Haderach! (MCARTMELL)
