@@ -80,6 +80,8 @@ L<Acme::MetaSyntactic::legomovievideogame> - LEGO Movie Videogame theme (BINGOS)
 
 L<Acme::MetaSyntactic::legopiratesofthecaribbean> - LEGO Pirates of the Caribbean theme (BINGOS)
 
+L<Acme::MetaSyntactic::legothehobbit> - LEGO The Hobbit game theme (BINGOS)
+
 L<Acme::MetaSyntactic::morning_musume> - The Mumusu theme (ELBEHO)
 
 L<Acme::MetaSyntactic::nethack> - The largest time waster in the world of *nix (ELLIOTJS)
