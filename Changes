@@ -3,59 +3,59 @@ Revision history for Task-MetaSyntactic
 {{$NEXT}}
 
 1.031 Mon May 26 2014
-        - add Acme::MetaSyntactic::cpanauthors
-        - list Acme::CPANAuthors::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
+    - add Acme::MetaSyntactic::cpanauthors
+    - list Acme::CPANAuthors::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
 
 1.030 Wed Apr 16 2014
-        - list Data::Faker::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
+    - list Data::Faker::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
 
 1.029 Sun Jan 26 2014
-        - add Acme::MetaSyntactic::legocityundercover
-        - add Acme::MetaSyntactic::legomarvelsuperheroes
+    - add Acme::MetaSyntactic::legocityundercover
+    - add Acme::MetaSyntactic::legomarvelsuperheroes
 
 1.028 Tue Jun 11 2013
-        - list distributions that require Acme::MetaSyntactic,
-          but that do not contain any themes
+    - list distributions that require Acme::MetaSyntactic,
+      but that do not contain any themes
 
 1.027 Mon May 13 2013
-        - add Acme::MetaSyntactic::xkcdcommon1949
-        - rename to Task::MetaSyntactic (and turned into a Task)
-        - switch do Dist::Zilla
-        - add a README file and "use strict", to improve my CPANTS score
+    - add Acme::MetaSyntactic::xkcdcommon1949
+    - rename to Task::MetaSyntactic (and turned into a Task)
+    - switch do Dist::Zilla
+    - add a README file and "use strict", to improve my CPANTS score
 
 1.026 Mon Apr  1 2013
-        - add Acme::MetaSyntactic::dune
-        - add Acme::MetaSyntactic::legobatman
-        - add Acme::MetaSyntactic::legoharrypotter
-        - add Acme::MetaSyntactic::legoindianajones
-        - add Acme::MetaSyntactic::legolotr
-        - add Acme::MetaSyntactic::legopiratesofthecaribbean
+    - add Acme::MetaSyntactic::dune
+    - add Acme::MetaSyntactic::legobatman
+    - add Acme::MetaSyntactic::legoharrypotter
+    - add Acme::MetaSyntactic::legoindianajones
+    - add Acme::MetaSyntactic::legolotr
+    - add Acme::MetaSyntactic::legopiratesofthecaribbean
 
 1.025 Tue Oct 16 2012
-        - add Acme::MetaSyntactic::morning_musume
-        - fixed the date format in the Changes files
-          (in accordance with CPAN::Changes)
+    - add Acme::MetaSyntactic::morning_musume
+    - fixed the date format in the Changes files
+      (in accordance with CPAN::Changes)
 
 1.024 Thu Aug  6 2012
-        - fix a typo in Acme::MetaSyntactic::soviet's name
+    - fix a typo in Acme::MetaSyntactic::soviet's name
 
 1.023 Thu Aug  6 2012
-        - add Acme::MetaSyntactic::soviet
+    - add Acme::MetaSyntactic::soviet
 
 1.022 Thu Jun 21 2012
-        - add Acme::MetaSyntactic::errno
+    - add Acme::MetaSyntactic::errno
 
 1.021 Tue May 21 2012
-        - add Acme::MetaSyntactic::Themes::Abigail
+    - add Acme::MetaSyntactic::Themes::Abigail
 
 1.020 Tue May  8 2012
-        - add Acme::MetaSyntactic::Themes
-        - document the distribution split
+    - add Acme::MetaSyntactic::Themes
+    - document the distribution split
 
 1.01 Mon Dec 31 13:59:58 CET 2007
-        - add the daleks theme
+    - add the daleks theme
 
 1.00 Fri Aug 17 12:12:21 CEST 2007
-        - First version of the bundle
-        - includes the buzzwords, nethack and vim additional themes
+    - First version of the bundle
+    - includes the buzzwords, nethack and vim additional themes
 
