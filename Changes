@@ -2,6 +2,10 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.032 Mon Oct 27 2014
+    - add Acme::MetaSyntactic::legomovievideogame
+    - add Acme::MetaSyntactic::legothehobbit
+
 1.031 Mon May 26 2014
     - add Acme::MetaSyntactic::cpanauthors
     - list Acme::CPANAuthors::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
