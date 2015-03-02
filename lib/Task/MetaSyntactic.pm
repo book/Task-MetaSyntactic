@@ -161,6 +161,14 @@ The L<Acme::CPANAuthors> series of modules aims at grouping CPAN authors
 by various criteria. It seems there are enough authors who have produced
 L<Acme::MetaSyntactic> themes to group them in their own category.
 
+=item L<Data::Fake::MetaSyntactic> (BOOK)
+
+First released on 2015-02-28.
+
+L<Data::Fake> generates randomized data using declarative syntax.
+This module exports factory functions that collect data from the installed
+L<Acme::MetaSyntactic> theme.
+
 =back
 
 =head1 AUTHOR
