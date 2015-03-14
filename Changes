@@ -2,6 +2,9 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.033 Sun Mar 15 2015
+    - list Data::Fake::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
+
 1.032 Mon Oct 27 2014
     - add Acme::MetaSyntactic::legomovievideogame
     - add Acme::MetaSyntactic::legothehobbit
