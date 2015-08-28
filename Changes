@@ -2,6 +2,9 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.034 Sat Aug 29 2015
+    - add Acme::MetaSyntactic::legojurassicworld
+
 1.033 Sun Mar 15 2015
     - list Data::Fake::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
 
