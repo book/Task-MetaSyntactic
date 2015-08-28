@@ -72,6 +72,8 @@ L<Acme::MetaSyntactic::legoharrypotter> - LEGO Harry Potter theme (BINGOS)
 
 L<Acme::MetaSyntactic::legoindianajones> - LEGO Indiana Jones theme (BINGOS)
 
+L<Acme::MetaSyntactic::legojurassicworld> - LEGO Jurassic World theme (BINGOS)
+
 L<Acme::MetaSyntactic::legolotr> - LEGO Lord of the Rings theme (BINGOS)
 
 L<Acme::MetaSyntactic::legomarvelsuperheroes> - LEGO Marvel Super Heroes theme (BINGOS)
