@@ -84,6 +84,8 @@ L<Acme::MetaSyntactic::legopiratesofthecaribbean> - LEGO Pirates of the Caribbea
 
 L<Acme::MetaSyntactic::legothehobbit> - LEGO The Hobbit game theme (BINGOS)
 
+L<Acme::MetaSyntactic::mlpfim> - a meta syntactic variable for everypony! (SHLOMIF)
+
 L<Acme::MetaSyntactic::morning_musume> - The Mumusu theme (ELBEHO)
 
 L<Acme::MetaSyntactic::nethack> - The largest time waster in the world of *nix (ELLIOTJS)
