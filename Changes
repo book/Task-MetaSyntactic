@@ -2,6 +2,9 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.036 Sat Apr 23 2016
+    - add Acme::MetaSyntactic::legomarvelsavengers
+
 1.035 Fri Dec 25 2015
     - add Acme::MetaSyntactic::mlpfim
 
