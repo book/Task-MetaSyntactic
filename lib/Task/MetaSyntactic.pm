@@ -62,6 +62,8 @@ L<Acme::MetaSyntactic::cpanauthors> - We are CPAN authors, and metasyntactic! (B
 
 L<Acme::MetaSyntactic::daleks> - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
+L<Acme::MetaSyntactic::dangdut> - A selection of popular Indonesian dangdut singers (PERLANCAR)
+
 L<Acme::MetaSyntactic::dune> - For he is the Kwisatz Haderach! (MCARTMELL)
 
 L<Acme::MetaSyntactic::errno> - The Errno theme (BOOK)
