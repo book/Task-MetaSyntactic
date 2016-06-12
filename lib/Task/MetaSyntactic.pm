@@ -70,6 +70,8 @@ L<Acme::MetaSyntactic::errno> - The Errno theme (BOOK)
 
 L<Acme::MetaSyntactic::frasier> - Characters from the sitcom Frasier (1993) (PERLANCAR)
 
+L<Acme::MetaSyntactic::id_names> - Most common Indonesian first names (PERLANCAR)
+
 L<Acme::MetaSyntactic::legobatman> - LEGO Batman theme (BINGOS)
 
 L<Acme::MetaSyntactic::legocityundercover> - LEGO City Undercover theme (BINGOS)
