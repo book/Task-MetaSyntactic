@@ -2,6 +2,13 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.037 Sun Jun 12 2016
+    - add Acme::MetaSyntactic::countries
+    - add Acme::MetaSyntactic::dangdut
+    - add Acme::MetaSyntactic::frasier
+    - add Acme::MetaSyntactic::id_names
+    - add Acme::MetaSyntactic::seinfeld
+
 1.036 Sat Apr 23 2016
     - add Acme::MetaSyntactic::legomarvelsavengers
 
