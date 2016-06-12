@@ -68,6 +68,8 @@ L<Acme::MetaSyntactic::dune> - For he is the Kwisatz Haderach! (MCARTMELL)
 
 L<Acme::MetaSyntactic::errno> - The Errno theme (BOOK)
 
+L<Acme::MetaSyntactic::frasier> - Characters from the sitcom Frasier (1993) (PERLANCAR)
+
 L<Acme::MetaSyntactic::legobatman> - LEGO Batman theme (BINGOS)
 
 L<Acme::MetaSyntactic::legocityundercover> - LEGO City Undercover theme (BINGOS)
