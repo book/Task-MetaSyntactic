@@ -128,7 +128,7 @@ for eight years, until it was replaced by the new kid on the block.
 
 =item L<Acme::MetaSyntactic::RefactorCode> (JFENAL)
 
-First released on 2005-03-15.
+First released on 2005-03-15. Now deleted and only available on BackPAN.
 
 Based on L<Acme::Floral>, this module refactors source code by replacing
 variable names with L<Acme::MetaSyntactic> items.
