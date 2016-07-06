@@ -26,15 +26,15 @@ needs. There was a weekly update with new themes on CPAN between January
 15, 2005 and November 6, 2006.
 
 Since version 0.99, the weekly uploads of the module have stopped,
-while I took some rest. I've also been looking for a better way to distribute
-the core modules and the themes themselves.
+while I took some rest. I have also been looking for a better way to
+distribute the core modules and the themes themselves.
 
 However, some users of L<Acme::MetaSyntactic> desperately needed new
 themes to be added, and grew tired of waiting for me. So, in a JFDI way,
 they started to upload their own themes on CPAN.
 
 On May 7, 2012, after a hiatus of five and a half years,
-L<Acme::MetaSyntactic> is back, in a shiny version 1.000.
+L<Acme::MetaSyntactic> was back, in a shiny version 1.000.
 The main C<Acme-MetaSyntactic> distribution contains the core modules
 and a single theme, while all "historical" themes now live in the
 C<Acme-MetaSyntactic-Themes> distribution.
@@ -43,8 +43,9 @@ The L<Test::MetaSyntactic> module included in the main distribution
 aims at simplifying the test and distribution of new themes by
 individual authors.
 
-This L<Task> (formerly a Bundle) installs all the official and not-so-official
-L<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
+This L<Task> (formerly a Bundle) installs the core modules and all the
+official and not-so-official L<Acme::MetaSyntactic> themes, in a single
+command (see the L<SYNOPSIS>).
 
 =head1 CONTENTS
 
@@ -113,7 +114,7 @@ L<Acme::MetaSyntactic::xkcdcommon1949> - xkcd common wordlist for Acme::MetaSynt
 =head1 OTHER METASYNTACTIC MODULES
 
 The following modules (ordered by first release date) are not part of
-this L<Task>, but they also make use L<Acme::MetaSyntactic>:
+this L<Task>, but they also make use of L<Acme::MetaSyntactic>:
 
 =over 4
 
