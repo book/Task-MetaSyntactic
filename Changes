@@ -3,6 +3,7 @@ Revision history for Task-MetaSyntactic
 {{$NEXT}}
 
 1.038 Wed Jul 6 2016
+    - add Acme::MetaSyntactic::legostarwarstheforceawakens
 
 1.037 Sun Jun 12 2016
     - add Acme::MetaSyntactic::countries
