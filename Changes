@@ -2,54 +2,54 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
-1.038 Wed Jul 6 2016
+1.038 2016-07-06 BOOK
     - add Acme::MetaSyntactic::legostarwarstheforceawakens
 
-1.037 Sun Jun 12 2016
+1.037 2016-06-12 BOOK
     - add Acme::MetaSyntactic::countries
     - add Acme::MetaSyntactic::dangdut
     - add Acme::MetaSyntactic::frasier
     - add Acme::MetaSyntactic::id_names
     - add Acme::MetaSyntactic::seinfeld
 
-1.036 Sat Apr 23 2016
+1.036 2016-04-23 BOOK
     - add Acme::MetaSyntactic::legomarvelsavengers
 
-1.035 Fri Dec 25 2015
+1.035 2015-12-25 BOOK
     - add Acme::MetaSyntactic::mlpfim
 
-1.034 Sat Aug 29 2015
+1.034 2015-08-29 BOOK
     - add Acme::MetaSyntactic::legojurassicworld
 
-1.033 Sun Mar 15 2015
+1.033 2015-03-15 BOOK
     - list Data::Fake::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
 
-1.032 Mon Oct 27 2014
+1.032 2014-10-27 BOOK
     - add Acme::MetaSyntactic::legomovievideogame
     - add Acme::MetaSyntactic::legothehobbit
 
-1.031 Mon May 26 2014
+1.031 2014-05-26 BOOK
     - add Acme::MetaSyntactic::cpanauthors
     - list Acme::CPANAuthors::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
 
-1.030 Wed Apr 16 2014
+1.030 2014-04-16 BOOK
     - list Data::Faker::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
 
-1.029 Sun Jan 26 2014
+1.029 2014-01-26 BOOK
     - add Acme::MetaSyntactic::legocityundercover
     - add Acme::MetaSyntactic::legomarvelsuperheroes
 
-1.028 Tue Jun 11 2013
+1.028 2013-06-11 BOOK
     - list distributions that require Acme::MetaSyntactic,
       but that do not contain any themes
 
-1.027 Mon May 13 2013
+1.027 2013-05-13 BOOK
     - add Acme::MetaSyntactic::xkcdcommon1949
     - rename to Task::MetaSyntactic (and turned into a Task)
     - switch do Dist::Zilla
     - add a README file and "use strict", to improve my CPANTS score
 
-1.026 Mon Apr  1 2013 - Bundle-MetaSyntactic
+1.026 2013-04-01 BOOK - Bundle-MetaSyntactic
     - add Acme::MetaSyntactic::dune
     - add Acme::MetaSyntactic::legobatman
     - add Acme::MetaSyntactic::legoharrypotter
@@ -57,30 +57,30 @@ Revision history for Task-MetaSyntactic
     - add Acme::MetaSyntactic::legolotr
     - add Acme::MetaSyntactic::legopiratesofthecaribbean
 
-1.025 Tue Oct 16 2012 - Bundle-MetaSyntactic
+1.025 2012-10-16 BOOK - Bundle-MetaSyntactic
     - add Acme::MetaSyntactic::morning_musume
     - fixed the date format in the Changes files
       (in accordance with CPAN::Changes)
 
-1.024 Thu Aug  6 2012 - Bundle-MetaSyntactic
+1.024 2012-08-06 BOOK - Bundle-MetaSyntactic
     - fix a typo in Acme::MetaSyntactic::soviet's name
 
-1.023 Thu Aug  6 2012 - Bundle-MetaSyntactic
+1.023 2012-08-06 BOOK - Bundle-MetaSyntactic
     - add Acme::MetaSyntactic::soviet
 
-1.022 Thu Jun 21 2012 - Bundle-MetaSyntactic
+1.022 2012-06-21 BOOK - Bundle-MetaSyntactic
     - add Acme::MetaSyntactic::errno
 
-1.021 Tue May 21 2012 - Bundle-MetaSyntactic
+1.021 2012-05-21 BOOK - Bundle-MetaSyntactic
     - add Acme::MetaSyntactic::Themes::Abigail
 
-1.020 Tue May  8 2012 - Bundle-MetaSyntactic
+1.020 2012-05-08 BOOK - Bundle-MetaSyntactic
     - add Acme::MetaSyntactic::Themes
     - document the distribution split
 
-1.01 Mon Dec 31 13:59:58 CET 2007 - Bundle-MetaSyntactic
+1.01 2007-12-31 BOOK - Bundle-MetaSyntactic
     - add the daleks theme
 
-1.00 Fri Aug 17 12:12:21 CEST 2007 - Bundle-MetaSyntactic
+1.00 2007-08-17 BOOK - Bundle-MetaSyntactic
     - First version of the bundle
     - includes the buzzwords, nethack and vim additional themes
