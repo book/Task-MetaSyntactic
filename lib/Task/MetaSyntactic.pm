@@ -57,6 +57,8 @@ L<Acme::MetaSyntactic::Themes::Abigail> - More themes by Abigail (ABIGAIL)
 
 L<Acme::MetaSyntactic::buzzwords> - Pointy-haired boss lingo (JQUELIN)
 
+L<Acme::MetaSyntactic::christmas> - The Christmas theme (PERLANCAR)
+
 L<Acme::MetaSyntactic::countries> - Country names (PERLANCAR)
 
 L<Acme::MetaSyntactic::cpanauthors> - We are CPAN authors, and metasyntactic! (BOOK)
