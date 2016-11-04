@@ -2,6 +2,10 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.040 2016-11-04 BOOK
+    - add Acme::MetaSyntactic::display_resolution
+    - add Acme::MetaSyntactic::christmas
+
 1.039 2016-07-16 BOOK
     - document that Acme-MetaSyntactic-RefactorCode is only on BackPAN
     - other minor documentation fixes
