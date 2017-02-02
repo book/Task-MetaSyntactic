@@ -57,6 +57,8 @@ L<Acme::MetaSyntactic::Themes::Abigail> - More themes by Abigail (ABIGAIL)
 
 L<Acme::MetaSyntactic::buzzwords> - Pointy-haired boss lingo (JQUELIN)
 
+L<Acme::MetaSyntactic::chinese_zodiac> - The Chinese zodiac theme (PERLANCAR)
+
 L<Acme::MetaSyntactic::christmas> - The Christmas theme (PERLANCAR)
 
 L<Acme::MetaSyntactic::countries> - Country names (PERLANCAR)
