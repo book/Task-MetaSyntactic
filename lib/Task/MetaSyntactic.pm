@@ -210,6 +210,17 @@ This is the first (and for now only) wordlist module based
 on L<WordList::MetaSyntactic>. It takes its word list from
 L<Acme::MetaSyntactic::dangdut>.
 
+=item L<Acme::MetaSyntactic::WordList> (PERLANCAR)
+
+First released on 2016-06-08.
+
+Just like L<Acme::MetaSyntactic::cpanauthors> and
+L<Acme::CPANAuthors::MetaSyntactic> are two sides of the
+same coin, L<Acme::MetaSyntactic::WordList> is the dual of
+L<WordList::MetaSyntactic>: a base class for C<Acme::MetaSyntactic::*>
+modules that get their meta names from a corresponding C<WordList::*>
+module. See L<Acme::MetaSyntactic::countries> for an example.
+
 =back
 
 =head1 AUTHOR
