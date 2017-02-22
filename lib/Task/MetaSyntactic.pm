@@ -194,6 +194,22 @@ L<Data::Fake> generates randomized data using declarative syntax.
 This module exports factory functions that collect data from the installed
 L<Acme::MetaSyntactic> theme.
 
+=item L<WordList::MetaSyntactic> (PERLANCAR)
+
+First released on 2016-06-06.
+
+This module is a base class for C<WordList::MetaSyntactic::*> modules,
+wordlist modules that get their wordlist from corresponding
+C<Acme::MetaSyntactic::*> modules.
+
+=item L<WordList::MetaSyntactic::dangdut> (PERLANCAR)
+
+First released on 2016-06-06.
+
+This is the first (and for now only) wordlist module based
+on L<WordList::MetaSyntactic>. It takes its word list from
+L<Acme::MetaSyntactic::dangdut>.
+
 =back
 
 =head1 AUTHOR
