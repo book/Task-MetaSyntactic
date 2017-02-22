@@ -234,6 +234,12 @@ First released on 2017-02-04.
 A L<Dist::Zilla> plugin that automates some of the steps of building an
 Acme-MetaSyntactic-* theme distribution.
 
+=item L<App::metastasize> (PERLANCAR)
+
+First released on 2017-02-11.
+
+This is an application based on L<Acme::PPIx::MetaSyntactic>.
+
 =back
 
 =head1 AUTHOR
