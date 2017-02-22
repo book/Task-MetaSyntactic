@@ -240,6 +240,12 @@ First released on 2017-02-11.
 
 This is an application based on L<Acme::PPIx::MetaSyntactic>.
 
+=item L<Complete::Acme::MetaSyntactic> (PERLANCAR)
+
+First released on 2017-02-15.
+
+Completion routines for L<Acme::MetaSyntactic>.
+
 =back
 
 =head1 AUTHOR
