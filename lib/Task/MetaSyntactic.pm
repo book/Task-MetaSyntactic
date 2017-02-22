@@ -246,6 +246,12 @@ First released on 2017-02-15.
 
 Completion routines for L<Acme::MetaSyntactic>.
 
+=item L<App::metasyn> (PERLANCAR)
+
+First released on 2017-02-17.
+
+An alternative to the L<meta> front-end to L<Acme::MetaSyntactic>.
+
 =back
 
 =head1 AUTHOR
