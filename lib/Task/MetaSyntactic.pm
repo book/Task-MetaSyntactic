@@ -227,6 +227,13 @@ First released on 2016-11-04.
 
 Shell completer for L<meta>, using L<Shell::Completer>.
 
+=item L<Dist::Zilla::Plugin::Acme::MetaSyntactic> (PERLANCAR)
+
+First released on 2017-02-04.
+
+A L<Dist::Zilla> plugin that automates some of the steps of building an
+Acme-MetaSyntactic-* theme distribution.
+
 =back
 
 =head1 AUTHOR
