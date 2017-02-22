@@ -221,6 +221,12 @@ L<WordList::MetaSyntactic>: a base class for C<Acme::MetaSyntactic::*>
 modules that get their meta names from a corresponding C<WordList::*>
 module. See L<Acme::MetaSyntactic::countries> for an example.
 
+=item L<App::ShellCompleter::meta> (PERLANCAR)
+
+First released on 2016-11-04.
+
+Shell completer for L<meta>, using L<Shell::Completer>.
+
 =back
 
 =head1 AUTHOR
