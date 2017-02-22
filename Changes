@@ -3,6 +3,7 @@ Revision history for Task-MetaSyntactic
 {{$NEXT}}
 
 1.041 2017-02-03 BOOK
+    - add Acme::MetaSyntactic::chinese_zodiac
 
 1.040 2016-11-04 BOOK
     - add Acme::MetaSyntactic::display_resolution
