@@ -2,6 +2,16 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.042 2017-02-22 BOOK
+    - list WordList::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
+    - list WordList::MetaSyntactic::dangdut under "OTHER METASYNTACTIC MODULES"
+    - list Acme::MetaSyntactic::WordList under "OTHER METASYNTACTIC MODULES"
+    - list App::ShellCompleter::meta under "OTHER METASYNTACTIC MODULES"
+    - list Dist::Zilla::Plugin::Acme::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
+    - list App::metastasize under "OTHER METASYNTACTIC MODULES"
+    - list Complete::Acme::MetaSyntactic under "OTHER METASYNTACTIC MODULES"
+    - list App::metasyn under "OTHER METASYNTACTIC MODULES"
+
 1.041 2017-02-03 BOOK
     - add Acme::MetaSyntactic::chinese_zodiac
 
