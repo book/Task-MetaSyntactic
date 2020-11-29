@@ -123,6 +123,8 @@ L<Acme::MetaSyntactic::seinfeld> - Characters from the sitcom Seinfeld (1989) (P
 
 L<Acme::MetaSyntactic::soviet> - NATO codenames for Soviet-designed equipment (JFORGET)
 
+L<Acme::MetaSyntactic::unyil> - The Unyil theme (PERLANCAR)
+
 L<Acme::MetaSyntactic::vim> - The vim theme (ELLIOTJS)
 
 L<Acme::MetaSyntactic::xkcdcommon1949> - xkcd common wordlist for Acme::MetaSyntactic (MARKF)
