@@ -264,6 +264,12 @@ First released on 2017-02-17.
 
 An alternative to the L<meta> front-end to L<Acme::MetaSyntactic>.
 
+=item L<WordListBase::MetaSyntactic> (PERLANCAR)
+
+First release on 2020-05-01.
+
+Base class for C<WordList::MetaSyntactic::*>.
+
 =back
 
 =head1 AUTHOR
