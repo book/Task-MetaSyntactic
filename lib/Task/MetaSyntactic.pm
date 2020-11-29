@@ -111,6 +111,8 @@ L<Acme::MetaSyntactic::legothehobbit> - LEGO The Hobbit game theme (BINGOS)
 
 L<Acme::MetaSyntactic::legoworlds> - LEGO Worlds theme (BINGOS)
 
+L<Acme::MetaSyntactic::metal_heroes> - The Metal Heroes series theme (PERLANCAR)
+
 L<Acme::MetaSyntactic::mlpfim> - a meta syntactic variable for everypony! (SHLOMIF)
 
 L<Acme::MetaSyntactic::morning_musume> - The Mumusu theme (ELBEHO)
