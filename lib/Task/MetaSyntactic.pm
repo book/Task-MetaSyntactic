@@ -21,7 +21,8 @@ Task::MetaSyntactic - All Acme::MetaSyntactic themes at once
 
 =head1 DESCRIPTION
 
-L<Acme::MetaSyntactic> is a module designed to fill all your metasyntactic
+L<Acme::MetaSyntactic> is a module designed to fill all your
+L<metasyntactic|https://en.wikipedia.org/wiki/Foobar>
 needs. There was a weekly update with new themes on CPAN between January
 15, 2005 and November 6, 2006.
 
