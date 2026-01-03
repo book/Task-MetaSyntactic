@@ -97,6 +97,8 @@ L<Acme::MetaSyntactic::legobatman> - LEGO Batman theme (BINGOS)
 
 L<Acme::MetaSyntactic::legocityundercover> - LEGO City Undercover theme (BINGOS)
 
+L<Acme::MetaSyntactic::legodcsupervillains> - LEGO DC Super Villains theme (BINGOS)
+
 L<Acme::MetaSyntactic::legoharrypotter> - LEGO Harry Potter theme (BINGOS)
 
 L<Acme::MetaSyntactic::legoindianajones> - LEGO Indiana Jones theme (BINGOS)
