@@ -67,6 +67,8 @@ L<Acme::MetaSyntactic::chinese_zodiac> - The Chinese zodiac theme (PERLANCAR)
 
 L<Acme::MetaSyntactic::christmas> - The Christmas theme (PERLANCAR)
 
+L<Acme::MetaSyntactic::corner_gas> - Characters from the sitcom Corner Gas (2004-2009) (PERLANCAR)
+
 L<Acme::MetaSyntactic::countries> - Country names (PERLANCAR)
 
 L<Acme::MetaSyntactic::cpanauthors> - We are CPAN authors, and metasyntactic! (BOOK)
