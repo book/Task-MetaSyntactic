@@ -3,6 +3,17 @@ Revision history for Task-MetaSyntactic
 {{$NEXT}}
 
 1.045 2026-01-04 BOOK
+    - Acme::MetaSyntactic::always_sunny
+    - Acme::MetaSyntactic::boboiboy
+    - Acme::MetaSyntactic::breaking_bad
+    - Acme::MetaSyntactic::corner_gas
+    - Acme::MetaSyntactic::legodcsupervillains
+    - Acme::MetaSyntactic::legotheincredibles
+    - Acme::MetaSyntactic::newsradio
+    - Acme::MetaSyntactic::not_going_out
+    - Acme::MetaSyntactic::ozark
+    - Acme::MetaSyntactic::schitts_creek
+    - list WordList::MetaSyntactic::Any under "OTHER METASYNTACTIC MODULES"
 
 1.044 2020-12-29 BOOK
     - add Acme::MetaSyntactic::gavan
