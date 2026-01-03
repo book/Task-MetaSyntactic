@@ -119,6 +119,8 @@ L<Acme::MetaSyntactic::legostarwarstheforceawakens> - LEGO Star Wars The Force A
 
 L<Acme::MetaSyntactic::legothehobbit> - LEGO The Hobbit game theme (BINGOS)
 
+L<Acme::MetaSyntactic::legotheincredibles> - LEGO The Incredibles theme (BINGOS)
+
 L<Acme::MetaSyntactic::legoworlds> - LEGO Worlds theme (BINGOS)
 
 L<Acme::MetaSyntactic::metal_heroes> - The Metal Heroes series theme (PERLANCAR)
