@@ -131,6 +131,8 @@ L<Acme::MetaSyntactic::morning_musume> - The Mumusu theme (ELBEHO)
 
 L<Acme::MetaSyntactic::nethack> - The largest time waster in the world of *nix (ELLIOTJS)
 
+L<Acme::MetaSyntactic::newsradio> - Characters from the sitcom Newsradio (1995-1999) (PERLANCAR)
+
 L<Acme::MetaSyntactic::seinfeld> - Characters from the sitcom Seinfeld (1989) (PERLANCAR)
 
 L<Acme::MetaSyntactic::soviet> - NATO codenames for Soviet-designed equipment (JFORGET)
