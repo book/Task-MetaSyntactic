@@ -135,6 +135,8 @@ L<Acme::MetaSyntactic::newsradio> - Characters from the sitcom Newsradio (1995-1
 
 L<Acme::MetaSyntactic::not_going_out> - Characters from the britcom Not Going Out (2006-) (PERLANCAR)
 
+L<Acme::MetaSyntactic::ozark> - The Ozark theme (PERLANCAR)
+
 L<Acme::MetaSyntactic::seinfeld> - Characters from the sitcom Seinfeld (1989) (PERLANCAR)
 
 L<Acme::MetaSyntactic::soviet> - NATO codenames for Soviet-designed equipment (JFORGET)
