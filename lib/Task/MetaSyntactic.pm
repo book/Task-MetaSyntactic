@@ -55,6 +55,8 @@ L<Acme::MetaSyntactic::Themes> - The original Acme::MetaSyntactic themes (BOOK)
 
 L<Acme::MetaSyntactic::Themes::Abigail> - More themes by Abigail (ABIGAIL)
 
+L<Acme::MetaSyntactic::always_sunny> - Characters from the sitcom It's Always Sunny In Philadephia (2005-) (PERLANCAR)
+
 L<Acme::MetaSyntactic::buzzwords> - Pointy-haired boss lingo (JQUELIN)
 
 L<Acme::MetaSyntactic::chinese_zodiac> - The Chinese zodiac theme (PERLANCAR)
