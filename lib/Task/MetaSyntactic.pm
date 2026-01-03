@@ -293,6 +293,12 @@ First release on 2020-05-01.
 Base class for C<WordList::MetaSyntactic::*>,
 renamed from C<WordList::MetaSyntactic>.
 
+=item L<WordList::MetaSyntactic::Any>
+
+Wordlist from any C<Acme::MetaSyntactic::*> module.
+
+First release on 2020-05-04.
+
 =back
 
 =head1 AUTHOR
