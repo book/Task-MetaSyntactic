@@ -137,6 +137,8 @@ L<Acme::MetaSyntactic::not_going_out> - Characters from the britcom Not Going Ou
 
 L<Acme::MetaSyntactic::ozark> - The Ozark theme (PERLANCAR)
 
+L<Acme::MetaSyntactic::schitts_creek> - Characters from the sitcom Schitt's Creek (2015-2020) (PERLANCAR)
+
 L<Acme::MetaSyntactic::seinfeld> - Characters from the sitcom Seinfeld (1989) (PERLANCAR)
 
 L<Acme::MetaSyntactic::soviet> - NATO codenames for Soviet-designed equipment (JFORGET)
