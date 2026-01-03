@@ -307,7 +307,7 @@ Philippe Bruhat (BooK), <book@cpan.org>.
 
 =head1 COPYRIGHT
 
-Copyright 2005-2020 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2005-2026 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
