@@ -2,6 +2,8 @@ Revision history for Task-MetaSyntactic
 
 {{$NEXT}}
 
+1.045 2026-01-04 BOOK
+
 1.044 2020-12-29 BOOK
     - add Acme::MetaSyntactic::gavan
     - add Acme::MetaSyntactic::id_beverages
