@@ -59,6 +59,8 @@ L<Acme::MetaSyntactic::always_sunny> - Characters from the sitcom It's Always Su
 
 L<Acme::MetaSyntactic::boboiboy> - The BoboiBoy theme (PERLANCAR)
 
+L<Acme::MetaSyntactic::breaking_bad> - Characters from the TV show Breaking Bad (2008-2013) (PERLANCAR)
+
 L<Acme::MetaSyntactic::buzzwords> - Pointy-haired boss lingo (JQUELIN)
 
 L<Acme::MetaSyntactic::chinese_zodiac> - The Chinese zodiac theme (PERLANCAR)
