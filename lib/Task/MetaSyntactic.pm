@@ -234,6 +234,8 @@ This module is a base class for C<WordList::MetaSyntactic::*> modules,
 wordlist modules that get their wordlist from corresponding
 C<Acme::MetaSyntactic::*> modules.
 
+Renamed to L<WordListBase::MetaSyntactic> on 2020-05-01.
+
 =item L<WordList::MetaSyntactic::dangdut> (PERLANCAR)
 
 First released on 2016-06-06.
@@ -288,7 +290,8 @@ An alternative to the L<meta> front-end to L<Acme::MetaSyntactic>.
 
 First release on 2020-05-01.
 
-Base class for C<WordList::MetaSyntactic::*>.
+Base class for C<WordList::MetaSyntactic::*>,
+renamed from C<WordList::MetaSyntactic>.
 
 =back
 
